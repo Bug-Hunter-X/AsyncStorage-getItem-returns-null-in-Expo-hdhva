@@ -1,0 +1,1 @@
+While working on an Expo project, I encountered a peculiar issue where the AsyncStorage.getItem method consistently returned null, despite having previously stored data using AsyncStorage.setItem. This was particularly frustrating because the data seemed to be written successfully, as verified through console logs within the setItem function.
